@@ -1,0 +1,65 @@
+2009-02-01  J-F Meessen
+	* Add read-only flag to some controls
+
+Release 0.6:
+
+2008-08-07  J-F Meessen
+	* Adapt datapoint-type filters to new syntax (needed by linknx 0.0.1.25)
+
+2008-06-18  J-F Meessen
+	* Add multi-value switch control
+	* Add direct value input
+
+Release 0.5:
+
+2008-04-28  J-F Meessen
+	* Add more formatting features to text contol
+	* Add HTML control
+
+2008-04-27  J-F Meessen
+	* Add scale widget to graphically display 0-100% values
+	* Allow custom pictures for goto widgets
+
+2008-04-22  J-F Meessen
+	* Rework of the design-edit menu
+	* Allow switches with custom pictures
+
+2008-04-17  J-F Meessen
+	* Add positioning grid with variable pitch for drag-drop
+	* Allow insertion of object value inside text
+
+2008-04-13  J-F Meessen
+	* Swap blinds-up and blinds-down pictures
+	* Avoid that the light bulb picture is shown briefly when switching fan, blinds, pump or outlet
+	* German translation improvements
+
+Release 0.4:
+
+2008-04-01  J-F Meessen
+	* Fix problems with IE when saving or displaying design
+
+2008-03-31  J-F Meessen
+	* Add multiple icons for switch (light, outlet, fan, pump, blinds)
+
+2008-03-31  Daniel Busch
+	* Improved German translation
+
+Release 0.3:
+
+2008-03-29  J-F Meessen
+
+	* Multi-language support
+	* Lots of improvements
+
+Release 0.2:
+
+2008-03-08  J-F Meessen
+
+	* First public release
+
+Release 0.1:
+
+2007-11-25  Cyrille Demaret
+
+	* Initial code base
+	
